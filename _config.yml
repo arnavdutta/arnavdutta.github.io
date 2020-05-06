@@ -56,11 +56,20 @@ topics:
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cloud-Machine-Learning-Engine-Logo.svg/192px-Cloud-Machine-Learning-Engine-Logo.svg.png
     
   - name: Computer Vision
-    web_url: https://www.pyimagesearch.com/
+    web_url: https://opencv-python-tutroals.readthedocs.io/en/latest/index.html
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/195px-OpenCV_Logo_with_text_svg_version.svg.png
 
   - name: Tensorflow
     web_url: https://www.tensorflow.org/
     image_url: https://miro.medium.com/fit/c/256/256/1*iDQvKoz7gGHc6YXqvqWWZQ.png
+    
+  - name: C++
+    web_url: https://github.com/topics/cpp
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
+  
+  - name: MongoDB
+    web_url: https://github.com/topics/mongodb
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png
+  
 
 theme: jekyll-theme-cayman
